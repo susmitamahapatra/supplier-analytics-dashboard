@@ -139,7 +139,7 @@ This project solves these challenges by providing a **scalable, automated, and i
 
 BI Developer / Data Analyst skilled in building dashboards and automating data workflows using Power BI, OAC, and ETL tools.
 
-🔗 LinkedIn: [Your Link]
+🔗 LinkedIn: [[Your Link](https://www.linkedin.com/in/susmita-mahapatra-80391aab/)]
 🔗 Portfolio: [Your Link]
 
 ---
